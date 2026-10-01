@@ -1,4 +1,19 @@
-import { easeIn, easeInOut, motion } from "motion/react";
+import { motion } from "motion/react";
+import animationImage from "../assets/icons/animation.png";
+import awardShowsImage from "../assets/icons/award_shows.png";
+import guessThePriceImage from "../assets/icons/guess_the_price.png";
+import historyImage from "../assets/icons/history.png";
+import mathImage from "../assets/icons/math.png";
+import oceanImage from "../assets/icons/ocean.png";
+
+const topicImages = {
+  animation: animationImage,
+  award_shows: awardShowsImage,
+  guess_the_price: guessThePriceImage,
+  history: historyImage,
+  math: mathImage,
+  ocean: oceanImage,
+};
 
 function QuizTopicBtn({ name, onClick }) {
     const path = name.toLowerCase().replaceAll(" ", "_")
@@ -13,8 +28,8 @@ function QuizTopicBtn({ name, onClick }) {
       >
         <img
           className="quiz-topic-img"
-          src={`/src/assets/icons/${path}.png`}
-          alt={`${path}.png`}
+          src={topicImages[path]}
+          alt={`${name} quiz`}
         ></img>
         <h2> {name} </h2>
       </motion.button>
