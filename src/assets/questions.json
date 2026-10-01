@@ -1,0 +1,220 @@
+[
+    {
+        "quiz_name": "Animation",
+        "content": [
+            {
+                "question": "What type of fruit does Ralph take from Pacman?",
+                "type": "multiple_choice",
+                "options": [
+                    "Cherries",
+                    "Strawberries",
+                    "Oranges",
+                    "Apples"
+                ],
+                "answer": "Cherries"
+            },
+            {
+                "question": "Zootopia 2 is the highest grossing film of all time",
+                "type": "true_false",
+                "answer": "False"
+            },
+            {
+                "question": "Which of these movies is not made by Walt Disney Animation Studios?",
+                "type": "multiple_choice",
+                "options": [
+                    "Strange World",
+                    "Encanto",
+                    "Elio",
+                    "Raya and the Last Dragon"
+                ],
+                "answer": "Elio"
+            },
+            {
+                "question": "What did the Other Mother in 'Coraline' transform into near the end of the film?",
+                "type": "multiple_choice",
+                "options": [
+                    "Butterfly",
+                    "Spider",
+                    "Ant",
+                    "Wasp"
+                ],
+                "answer": "Spider"
+            },
+            {
+                "question": "The real name of Boo from “Monsters, Inc.” is Jane",
+                "type": "true_false",
+                "answer": "False"
+            }
+        ]
+    },
+    {
+        "quiz_name": "Ocean",
+        "content": [
+            {
+                "question": "What is the oldest sea creature?",
+                "type": "multiple_choice",
+                "options": [
+                    "Greenland Sharks",
+                    "Glass Sponge",
+                    "Bowhead Whale",
+                    "Immortal Jellyfish"
+                ],
+                "answer": "Glass Sponge"
+            },
+            {
+                "question": "Octopuses have 9 brains",
+                "type": "true_false",
+                "answer": "True"
+            },
+            {
+                "question": "What is the largest ocean in the world?",
+                "type": "multiple_choice",
+                "options": [
+                    "Pacific",
+                    "Indian",
+                    "Atlantic",
+                    "Arctic"
+                ],
+                "answer": "Pacific"
+            },
+            {
+                "question": "What is the fastest fish in the ocean?",
+                "type": "multiple_choice",
+                "options": [
+                    "Swordfish",
+                    "Black Marlin",
+                    "Sailfish",
+                    "Mako Shark"
+                ],
+                "answer": "Sailfish"
+            },
+            {
+                "question": "A 'smack' is the name for a gathering of what?",
+                "type": "multiple_choice",
+                "options": [
+                    "Swordfish",
+                    "Jellyfish",
+                    "Manta Ray",
+                    "Sharks"
+                ],
+                "answer": "Jellyfish"
+            }
+        ]
+    },
+    {
+        "quiz_name": "History",
+        "content": [
+            {
+                "question": "Ocean is blue?",
+                "type": "true_false",
+                "answer": "True"
+            }
+        ]
+    },
+    {
+        "quiz_name": "Guess the Price",
+        "content": [
+            {
+                "question": "Ocean is blue?",
+                "type": "true_false",
+                "answer": "True"
+            }
+        ]
+    },
+    {
+        "quiz_name": "Math",
+        "content": [            
+            {
+                "question": "What is the next number in the sequence? 2, 4, 8, 16, 32, __",
+                "type": "input",
+                "answer": "64"
+            },
+            {
+                "question": "Which of these numbers is the greatest",
+                "type": "multiple_choice",
+                "options": [
+                    "Hours in a year",
+                    "Seconds in a day",
+                    "Days in a decade",
+                    "Minutes in a week"
+                ],
+                "answer": "Seconds in a day"
+            },
+            {
+                "question": "What is the product of the first three prime numbers",
+                "type": "input",
+                "answer": "30"
+            },
+            {
+                "question": "What number is equal to the sum of any integer and its negative",
+                "type": "input",
+                "answer": "0"
+            },
+            {
+                "question": "What is 2 x (8 - 5) + 1",
+                "type": "input",
+                "answer": "7"
+            }
+        ]
+    },
+    {
+        "quiz_name": "Award Shows",
+        "content": [
+            {
+                "question": "The movies Ben-Hur (1959), Titanic (1997), and The Lord of the Rings: The Return of the King (2003) are tied for the most Oscar wins in history. How many Oscars did they win?",
+                "type": "multiple_choice",
+                "options": [
+                    "8",
+                    "13",
+                    "10",
+                    "11"
+                ],
+                "answer": "11"
+            },
+            {
+                "question": "What year did Kanye interupt Taylor Swift at the MTV Video Music Awards",
+                "type": "multiple_choice",
+                "options": [
+                    "2008",
+                    "2009",
+                    "2010",
+                    "2011"
+                ],
+                "answer": "2009"
+            },
+            {
+                "question": "The first Grammys ceremony aired in which decade?",
+                "type": "multiple_choice",
+                "options": [
+                    "1940s",
+                    "1950s",
+                    "1960s",
+                    "1970s"
+                ],
+                "answer": "1950s"
+            },
+            {
+                "question": "Who was the first person to get an EGOT? (An Emmy, Grammy, Oscar, & Tony)",
+                "type": "multiple_choice",
+                "options": [
+                    "Audrey Hepburn",
+                    "Helen Hayes",
+                    "Richard Rodgers",
+                    "Whoopi Goldberg"
+                ],
+                "answer": "Richard Rodgers"
+            },
+            {
+                "question": "What was the first animated film to be nominated for Best Picture?",
+                "type": "multiple_choice",
+                "options": [
+                    "Beauty and the Beast",
+                    "Snow White and the Seven Dwarfs",
+                    "The Little Mermaid",
+                    "The Lion King"
+                ],
+                "answer": "Beauty and the Beast"
+            }
+        ]
+    }
+]
